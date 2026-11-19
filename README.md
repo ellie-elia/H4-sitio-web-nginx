@@ -2,7 +2,7 @@
 
 Respaldo del código fuente HTML desplegado dentro de un contenedor Docker (`nginx:alpine`) sobre una máquina virtual Alpine Linux administrada remotamente vía Tailscale.
 
-## Datos de la entrega
+## Datos 
 * **Universidad:** Universidad Franz Tamayo (UNIFRANZ)
 * **Asignatura:** Sistemas Operativos — Paralelo 2
 * **Docente:** Ing. Diego Cárdenas S.
