@@ -4,7 +4,7 @@ Respaldo del código fuente HTML desplegado dentro de un contenedor Docker (`ngi
 
 ## Datos 
 * **Universidad:** Universidad Franz Tamayo (UNIFRANZ)
-* **Asignatura:** Sistemas Operativos — Paralelo 2
+* **Asignatura:** Sistemas Operativos - Paralelo 2
 * **Docente:** Ing. Diego Cárdenas S.
 * **Estudiante:** Elia Solis Escobar
 
